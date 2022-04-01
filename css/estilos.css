@@ -1,3 +1,7 @@
+.buttonContacto {
+  color: #00ffff;
+}
+
 .tituloNav {
   color: white;
 }
@@ -17,10 +21,6 @@ body {
 
 .subtitulo {
   color: white;
-}
-
-.buttonContacto {
-  color: #00ffff;
 }
 
 /*# sourceMappingURL=estilos.css.map */

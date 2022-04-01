@@ -1,24 +1,27 @@
+@import "contacto";
+
+///// NAV_BAR GENERAL /////
 .tituloNav {
   color: white;
 }
 
+///// FOOTER GENERAL /////
 footer {
   background-color: #00ffff;
   padding: 5px;
 }
 
+///// BODY GENERAL /////
 body {
   background-color: black;
 }
 
+///// TITULOS /////
 .titulo {
   color: #00ffff;
 }
 
+///// SUBTITULOS /////
 .subtitulo {
   color: white;
-}
-
-.buttonContacto {
-  color: #00ffff;
 }
